@@ -1,4 +1,4 @@
-"""
+﻿"""
 Django settings for django_tutorial project.
 """
 

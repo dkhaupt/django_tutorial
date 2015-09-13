@@ -32,6 +32,17 @@
     <Compile Include="app\tests.py" />
     <Compile Include="app\views.py" />
     <Compile Include="app\__init__.py" />
+    <Compile Include="code\mysite\manage.py" />
+    <Compile Include="code\mysite\mysite\settings.py" />
+    <Compile Include="code\mysite\mysite\urls.py" />
+    <Compile Include="code\mysite\mysite\wsgi.py" />
+    <Compile Include="code\mysite\mysite\__init__.py" />
+    <Compile Include="code\mysite\polls\admin.py" />
+    <Compile Include="code\mysite\polls\migrations\__init__.py" />
+    <Compile Include="code\mysite\polls\models.py" />
+    <Compile Include="code\mysite\polls\tests.py" />
+    <Compile Include="code\mysite\polls\views.py" />
+    <Compile Include="code\mysite\polls\__init__.py" />
     <Compile Include="manage.py" />
     <Compile Include="django_tutorial\__init__.py" />
     <Compile Include="django_tutorial\settings.py" />
@@ -47,9 +58,20 @@
     <Folder Include="app\static\app\scripts\" />
     <Folder Include="app\templates\" />
     <Folder Include="app\templates\app\" />
+    <Folder Include="code\" />
+    <Folder Include="code\mysite\" />
+    <Folder Include="code\mysite\mysite\" />
+    <Folder Include="code\mysite\mysite\__pycache__\" />
+    <Folder Include="code\mysite\polls\" />
+    <Folder Include="code\mysite\polls\migrations\" />
     <Folder Include="django_tutorial\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="code\mysite\db.sqlite3" />
+    <Content Include="code\mysite\mysite\__pycache__\settings.cpython-34.pyc" />
+    <Content Include="code\mysite\mysite\__pycache__\urls.cpython-34.pyc" />
+    <Content Include="code\mysite\mysite\__pycache__\wsgi.cpython-34.pyc" />
+    <Content Include="code\mysite\mysite\__pycache__\__init__.cpython-34.pyc" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />
