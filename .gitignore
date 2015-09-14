@@ -10,7 +10,7 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-#python files
+# python files
 *.pyc
 *.pyo
 
